@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/DELL/DELL_UNINASSAU/5º período/Game Engine/SuperCat/SuperCat_Menu/SuperCat_Menu/Content/CatYellowRun4.gif</File>
+    <File>C:/Users/DELL/DELL_UNINASSAU/5º período/Game Engine/SuperCat/SuperCat_Menu/SuperCat_Menu/Content/City1 esmaecido.png</File>
+    <File>C:/Users/DELL/DELL_UNINASSAU/5º período/Game Engine/SuperCat/SuperCat_Menu/SuperCat_Menu/Content/City1.png</File>
+    <File>C:/Users/DELL/DELL_UNINASSAU/5º período/Game Engine/SuperCat/SuperCat_Menu/SuperCat_Menu/Content/Logo.png</File>
+    <File>C:/Users/DELL/DELL_UNINASSAU/5º período/Game Engine/SuperCat/SuperCat_Menu/SuperCat_Menu/Content/menu.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

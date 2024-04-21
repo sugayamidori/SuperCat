@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics">
+  <Asset Type="Graphics:FontDescription">
+
+    <!-- Define o nome do arquivo da fonte -->
+    <FontName>Arial</FontName>
+
+    <!-- Define o tamanho da fonte -->
+    <Size>14</Size>
+
+    <!-- Define o estilo da fonte (Regular, Bold, Italic, etc.) -->
+    <Style>Regular</Style>
+
+    <!-- Define a espessura da borda da fonte (opcional) -->
+    <Spacing>0</Spacing>
+
+    <!-- Define a cor da sombra da fonte (opcional) -->
+    <UseKerning>true</UseKerning>
+
+    <!-- Define se a fonte deve usar kerning (ajuste de espaço entre caracteres) (opcional) -->
+    <UseKerning>true</UseKerning>
+
+    <!-- Define a espessura da borda da fonte (opcional) -->
+    <UseOutline>false</UseOutline>
+
+    <!-- Define se a fonte deve ter uma borda (opcional) -->
+    <OutlineColor>Black</OutlineColor>
+
+    <!-- Define a cor do texto -->
+    <DefaultCharacter>?</DefaultCharacter>
+
+    <!-- Define o caractere padrão da fonte -->
+    <CharacterRegions>
+      <CharacterRegion>
+        <Start>&#32;</Start>
+        <End>&#126;</End>
+      </CharacterRegion>
+    </CharacterRegions>
+
+  </Asset>
+</XnaContent>

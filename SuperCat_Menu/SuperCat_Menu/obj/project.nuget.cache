@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wMLlqzaCwWXxcvEhI1laqhWkcg1v3ATCKNPSLR9rqw1aYe+5ZktkiulpmpdrroL3SoNVK9rwvs+kfvZ16E2ypA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\DELL_UNINASSAU\\5º período\\Game Engine\\SuperCat\\SuperCat_Menu\\SuperCat_Menu\\SuperCat_Menu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
